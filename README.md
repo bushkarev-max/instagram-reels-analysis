@@ -8,7 +8,7 @@
 
 ## Установка в Codex
 
-1. Скачайте ZIP репозитория или клонируйте: `git clone https://github.com/bushkarev-max/instagram-reel-local.git`.
+1. Скачайте ZIP репозитория или клонируйте: `git clone https://github.com/bushkarev-max/instagram-reels-analysis.git`.
 2. Прочитайте `skills/instagram-reel-local/SKILL.md`. Проверьте существующие установки с тем же именем, включая прежние каталоги скиллов; не перезаписывайте локальные правила автоматически.
 3. Скопируйте целиком папку `skills/instagram-reel-local` в `.agents/skills/` своего проекта либо в `~/.agents/skills/` для всех проектов.
 4. Начните новую сессию в нужном проекте и проверьте доступность скилла.

@@ -1,13 +1,13 @@
 {
   "schema_version": 4,
   "project_id": "instagram-reel-local",
-  "repository": "bushkarev-max/instagram-reel-local",
+  "repository": "bushkarev-max/instagram-reels-analysis",
   "spec": {
-    "repository": "bushkarev-max/instagram-reel-local",
+    "repository": "bushkarev-max/instagram-reels-analysis",
     "path": "MASTER-SPEC.md"
   },
   "issues": {
-    "repository": "bushkarev-max/instagram-reel-local"
+    "repository": "bushkarev-max/instagram-reels-analysis"
   },
   "context": {
     "readme": "README.md",
