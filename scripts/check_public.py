@@ -7,7 +7,7 @@ FILES = {
     '.gitignore', '.project-system.json', '.github/workflows/check.yml',
     'AGENTS.md', 'README.md', 'MASTER-SPEC.md', 'LICENSE', 'SECURITY.md',
     'scripts/check_public.py', 'tests/test_public.py',
-    'skills/instagram-reel-local/SKILL.md',
+    'skills/instagram-reels-analysis/SKILL.md',
 }
 RULES = {
     'private-key': r'-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----',
